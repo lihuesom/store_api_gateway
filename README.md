@@ -1,5 +1,5 @@
 ## _store_api_gateway_ 🎩
-# Mision Tic 2022 - Cilo 4 (Api Apollo) 🚀
+# Mision Tic 2022 - Ciclo 4 (Api Apollo) 🚀
 
 _Se presenta Api, para el proyecto Store - Team 4 Grupo 65_
 
